@@ -1,5 +1,31 @@
 {
   "dependencies": {
-    "koa": "^3.1.1"
+    "ali-oss": "^6.23.0",
+    "axios": "^1.13.1",
+    "crypto": "^1.0.1",
+    "dayjs": "^1.11.19",
+    "dotenv": "^17.2.3",
+    "ip2region": "^2.3.0",
+    "koa": "^3.1.1",
+    "koa-body": "^7.0.0",
+    "koa-bodyparser": "^4.4.1",
+    "koa-csrf": "^5.0.1",
+    "koa-router": "^14.0.0",
+    "koa-static": "^5.0.0",
+    "mongoose": "^8.19.2",
+    "pg": "^8.16.3",
+    "sequelize": "^6.37.7",
+    "socket.io": "^4.8.1",
+    "uuid": "^13.0.0",
+    "winston": "^3.18.3"
+  },
+  "devDependencies": {
+    "@types/koa": "^3.0.1",
+    "@types/koa-bodyparser": "^4.3.13",
+    "@types/koa-router": "^7.4.9",
+    "@types/koa-static": "^4.0.4",
+    "@types/lodash": "^4.17.20",
+    "@types/node": "^24.10.0",
+    "typescript": "^5.9.3"
   }
 }

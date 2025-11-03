@@ -10,5 +10,5 @@ app.use(async (ctx) => {
 
 // 监听端口
 app.listen(3000, () => {
-  console.log('Koa server is running at http://localhost:3000');
+  console.log('KOA服务启动在 - http://localhost:3000');
 });
